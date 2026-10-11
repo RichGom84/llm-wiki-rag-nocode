@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+.ipynb_checkpoints/
+my-workshop-results.zip
+local-results/
