@@ -5,3 +5,5 @@ __pycache__/
 .ipynb_checkpoints/
 my-workshop-results.zip
 local-results/
+vscode/output/
+vscode/exports/

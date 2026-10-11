@@ -1,5 +1,10 @@
 # 코딩 없이 만드는 RAG와 LLM Wiki
 
+## 실습 방식 선택
+
+- **[VS Code + GPT 버전](vscode/README.md)**: OpenAI Codex 확장에 한국어 지시문을 붙여 넣어 검색과 Wiki 파일을 만듭니다. [복사 지시문 10개](vscode/PROMPTS.md)
+- **Colab 버전**: 아래 시작 버튼을 누르고 노트북의 실습 버튼을 사용합니다. 별도 API 키가 필요합니다.
+
 코드를 작성하거나 수정하지 않습니다. **실습 노트북을 열고 버튼을 누르면** 같은 자료로 RAG와 LLM Wiki를 만들 수 있습니다.
 
 <!-- COLAB_LINK_START -->
